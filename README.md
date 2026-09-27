@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/28005a28-99ea-450d-9815-d660194017e1
 
 ## SimpleDump++ is a legacy memory dumping tool created by developer Mojobojo, primarily used for connecting to modded Xbox 360 consoles (running xbdm or RGLoader) to dump specific hardware memory ranges over a network. "(Make \ Create Cheats and Trainers for Aurora and others )"
 
-### - Because the original tool was hosted on older, now-defunct hacking forums and its repository is not publicly maintained on mainstream platforms like GitHub, the complete, official source code for SimpleDump++ is not available in a verified public repository. 
+### - Because the original tool was hosted on older, now-defunct hacking forums and its repository is not publicly maintained on mainstream platforms like GitHub, the complete, official source code for SimpleDump++ is not available in a complete working state. 
 
 ### - However, because I needed this tool i ended up finding this and developing this software using Visual Studio 2010 Ultimate Along with the Xbox 360 XDK\SDK installed. 
 ### - At the time the source was Not Compiling due to certain errors. I've made the Necessary Changes For it to compile an executable. 
