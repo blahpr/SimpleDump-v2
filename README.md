@@ -1,4 +1,3 @@
-## !! UNzip SimpleDump++.sdf next to SimpleDump++.sln.!! because cant upload more than 25mb per file.
 ### (https://github.com/blahpr/SimpleDump-v2/releases) Download
 # SimpleDump++ v2 - for WINDOWS
 
