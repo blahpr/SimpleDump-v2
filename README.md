@@ -1,5 +1,5 @@
 ## !! UNzip SimpleDump++.sdf next to SimpleDump++.sln.!! because cant upload more than 25mb per file.
-
+### (https://github.com/blahpr/SimpleDump-v2/releases) Download
 # SimpleDump++ v2 - for WINDOWS
 ## SimpleDump++ is a legacy memory dumping tool created by developer Mojobojo, primarily used for connecting to modded Xbox 360 consoles (running xbdm or RGLoader) to dump specific hardware memory ranges over a network. "(Make \ Create Cheats and Trainers for Aurora and others )"
 
