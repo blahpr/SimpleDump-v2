@@ -18,4 +18,3 @@
 
 (https://github.com/BLAHPR)
 ### Anyone Can Make Changes As They See Fit. Like Change Stuff, Add Stuff, Dislike Stuff You Can Please Feel Free.
-* Using UPX The Ultimate Packer for eXecutables (https://github.com/upx/upx)
