@@ -4,8 +4,7 @@
 
 https://github.com/user-attachments/assets/28005a28-99ea-450d-9815-d660194017e1
 
-<img width="463" height="285" alt="Open" src="https://github.com/user-attachments/assets/feb1174d-8f97-469a-90b2-be07b0251717" />
-<img width="463" height="285" alt="Connected" src="https://github.com/user-attachments/assets/b44282f4-f3a6-44d0-989e-8756d82db459" />
+<img width="463" height="285" alt="Open" src="https://github.com/user-attachments/assets/feb1174d-8f97-469a-90b2-be07b0251717" />  <img width="463" height="285" alt="Connected" src="https://github.com/user-attachments/assets/b44282f4-f3a6-44d0-989e-8756d82db459" />
 
 ## SimpleDump++ is a legacy memory dumping tool created by developer Mojobojo, primarily used for connecting to modded Xbox 360 consoles (running xbdm or RGLoader) to dump specific hardware memory ranges over a network. "(Make \ Create Cheats and Trainers for Aurora and others )"
 
